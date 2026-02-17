@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
