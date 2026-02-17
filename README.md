@@ -29,8 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
