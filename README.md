@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -71,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
