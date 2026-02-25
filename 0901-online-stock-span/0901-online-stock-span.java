@@ -1,22 +1,29 @@
 class StockSpanner {
-    ArrayDeque<int[]> stack=new ArrayDeque<>();
+    ArrayDeque<pair> stack=new ArrayDeque<>();
+
    
     public StockSpanner() {
       
         
     }
-    
+   public class pair{
+         int price;
+        int span;
+       pair(int price,int span){
+            this.price=price;
+            this.span=span;
+        }
+    }
     public int next(int price) {
-         int span=1;
-        while(!stack.isEmpty() &&price>=stack.peek()[0]){
-            
-            span=span+stack.peek()[1];
-            stack.pop();
-           
-              
-        }    stack.push(new int[]{price,span});
+        
+        int span=1;
+        
+        while(!stack.isEmpty() && price>=stack.peek().price){
+            span+=stack.pop().span;
+        }stack.push(new pair(price,span));
         return span;
     }
+
 }
 
 /**
