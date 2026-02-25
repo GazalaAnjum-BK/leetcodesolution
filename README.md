@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
