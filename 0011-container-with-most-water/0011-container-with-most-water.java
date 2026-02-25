@@ -11,10 +11,8 @@ class Solution {
             left++;}
              if(curArea>maxArea){
             maxArea=curArea;
-        }
-
+             }
 }
-      
         return maxArea;
     }
 }
