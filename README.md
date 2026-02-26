@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0739-daily-temperatures) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
