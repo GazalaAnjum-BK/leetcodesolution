@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
