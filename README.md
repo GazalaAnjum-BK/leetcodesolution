@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0844-backspace-string-compare) |
 ## Stack
