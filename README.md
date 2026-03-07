@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
