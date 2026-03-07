@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0739-daily-temperatures) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
@@ -45,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
@@ -102,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
