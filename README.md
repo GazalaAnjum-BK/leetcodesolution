@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0904-fruit-into-baskets) |
 ## Sorting
