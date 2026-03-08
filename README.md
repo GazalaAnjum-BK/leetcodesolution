@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0066-plus-one) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GazalaAnjum-BK/leetcodesolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
