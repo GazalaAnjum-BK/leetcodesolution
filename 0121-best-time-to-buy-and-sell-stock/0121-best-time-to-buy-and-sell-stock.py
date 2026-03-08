@@ -4,10 +4,7 @@ class Solution:
         min_price=prices[0]
         for i in range(1,len(prices),1):
             min_price=min(prices[i],min_price)
-            if prices[i]<min_price:
-                min_price=prices[i]
-            else:
-               profit=prices[i]-min_price
-               max_profit=max(profit,max_profit)
+            profit=prices[i]-min_price
+            max_profit=max(profit,max_profit)
         return max_profit
         
